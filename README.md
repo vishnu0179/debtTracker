@@ -1,6 +1,6 @@
 # DebtTracker
 
-Tool to track my debt among my friends.
+Command Line tool to track debts and balances in groups.
 
 #### Dependency 
 [Python3](https://www.python.org/downloads/)
